@@ -63,7 +63,7 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: Blog contents
   url: "/blog/"
   side: left
   dropdown:
