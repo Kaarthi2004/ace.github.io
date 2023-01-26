@@ -1,9 +1,13 @@
-- title: Start
+- title: WELCOME
   url: "/"
   side: left
 
-- title: Getting Started
+- title: BLOGGABLE TECHS
   url: "/getting-started/"
+  side: left
+  
+- title: PORTFOLIO
+  url: "/portfolio/"
   side: left
 
 - title: "Templates"
