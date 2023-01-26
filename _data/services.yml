@@ -1,17 +1,17 @@
 - menu_name: "Services"
 
-- name: "Contact"
+- name: "Contact Number"
   url: "/contact/"
   title: "Contact"
 
-- name: "RSS"
+- name: "Instagram"
   url: "/feed.xml"
   title: "Subscribe to RSS Feed"
 
-- name: "Atom"
+- name: "Telegram"
   url: "/atom.xml"
   title: "Subscribe to Atom Feed"
 
-- name: "sitemap.xml"
+- name: "Linkedin"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
