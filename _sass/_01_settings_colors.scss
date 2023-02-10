@@ -10,15 +10,12 @@
 - Code
 
 */
-<body> 
-background-color: black;
-</body>
 /* Basics
 ------------------------------------------------------------------- */
 
 $text-color         : #32CD32;
 $body-font-color    : $text-color;
-$body-bg            : #fdfdfd;
+$body-bg            : #000000;
 
 
 
@@ -26,7 +23,7 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1               : #334D5C; // dark turquoise
+$ci-1               : #245e7f; // dark turquoise
 $ci-2               : #45B29D; // turquoise
 $ci-3               : #EFC94C; // yellow
 $ci-4               : #E27A3F; // orange
@@ -108,7 +105,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 ------------------------------------------------------------------- */
 
 $footer-bg          : $grey-8;
-$footer-color       : #fff;
+$footer-color       : #15f70e;
 $footer-link-color  : $ci-6;
 
 
@@ -124,23 +121,23 @@ $subfooter-link-color: $grey-8;
 $code-background-color: scale-color($secondary-color, $lightness: 70%);
 
 $highlight-background: #000000;
-$highlight-comment: #757538;
+$highlight-comment: #6b6b26;
 $highlight-error: #a61717;
-$highlight-comment-special: #999999;
+$highlight-comment-special: #7e3f3f;
 $highlight-deleted: #000000;
 $highlight-error-2: #aa0000;
 $highlight-literal-string: #d14;
 $highlight-literal-number: #009999;
 $highlight-name-attribut: #008080;
 $highlight-error-background: #d69292;
-$highlight-generic-deleted: #ffdddd;
-$highlight-generic-deleted-specific: #ffaaaa;
+$highlight-generic-deleted: #7c2727;
+$highlight-generic-deleted-specific: #8d4040;
 $highlight-generic-inserted: #ddffdd;
 $highlight-generic-inserted-specific: #aaffaa;
-$highlight-generic-output: #888888;
-$highlight-generic-prompt: #555555;
-$highlight-subheading: #aaaaaa;
-$highlight-keyword-type: #445588;
+$highlight-generic-output: #dbd951;
+$highlight-generic-prompt: #a08633;
+$highlight-subheading: #5eef0a;
+$highlight-keyword-type: #2d4795;
 $highlight-name-builtin: #0086B3;
 $highlight-name-class: #445588;
 $highlight-name-entity: #800080;
@@ -148,6 +145,6 @@ $highlight-name-exception: #990000;
 $highlight-name-function: #990000;
 $highlight-name-namespace: #555555;
 $highlight-name-tag: #000080;
-$highlight-text-whitespace: #bbbbbb;
+$highlight-text-whitespace: #a72a2a;
 $highlight-literal-string-regex: #009926;
 $highlight-literal-string-symbol: #990073;
