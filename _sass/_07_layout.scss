@@ -78,7 +78,7 @@ body.video cite { color: #fff; }
     text-align: center;
     font-size: rem-calc(54);
     font-family: $header-font-family;
-    color: #fff;
+    color: #4b3f3f;
     text-transform: uppercase;
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
@@ -225,7 +225,7 @@ body.video cite { color: #fff; }
     border: 0;
 }
 #page-meta .button {
-    color: #fff;
+    color: #64ce4a;
 }
 #page-meta .button:hover {
     background: $primary-color;
@@ -284,7 +284,7 @@ body.video cite { color: #fff; }
     #footer h4,
     #footer h5 {
         letter-spacing: 1px;
-        color: #fff;
+        color: #221d1d;
         text-transform: uppercase;
     }
 
@@ -308,7 +308,7 @@ body.video cite { color: #fff; }
     border: 0;
     text-transform: uppercase;
     &:hover {
-        color: #fff;
+        color: #11d30a;
   }
 }
 
@@ -329,7 +329,7 @@ body.video cite { color: #fff; }
     text-align: center;
     &:hover {
       background: $subfooter-bg;
-      color: #fff;
+      color: #000000;
     }
   }
 }
